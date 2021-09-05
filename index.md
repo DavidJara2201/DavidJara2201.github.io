@@ -1,6 +1,6 @@
 # David Jaramillo Calle
 
-Welcome to my gitHub page, here I will be posting different projects and sharing my knowlodge.
+Welcome to my gitHub page, here I will be posting different projects and sharing my knowledge.
 
 ## Profile: 
 
