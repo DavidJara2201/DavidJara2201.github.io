@@ -6,7 +6,7 @@ Welcome to my gitHub page, here I will be posting different projects and sharing
 
 Undergraduate student of the statistics major in the "Universidad Nacional de Colombia" in Medellin. With emphasis in statistical methodologies for data analysis, data science, data manipulation, etc.
 
-Solid background using R, Python and Excel for statistical analysis, power BI for business intelligence, as well as, SQL for relational databases.
+Solid background using R, Python and Excel for statistical analysis including statistical inference, supervised and unsupervised learning, data visualization, anomaly detection, etc. power BI for business intelligence, as well as, SQL for relational databases.
 
 ## Projects in Spanish:
 
