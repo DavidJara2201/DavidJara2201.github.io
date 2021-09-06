@@ -15,5 +15,8 @@ Proyecto realizado para predecir el valor de venta de un renault logan a partir 
 
 [Enlace en Rpubs del proyecto](https://rpubs.com/DavidJara2201/805412)
 
+### Predicción de la precipitación en Ethiopia.
+Proyecto geoestadístico donde se estudia la distribución de la precipitación de Ethiopia y los diferentes supuestos necesarios para posteriormente generar un modelo a través de "Kriging" capaz de predecir la precipitación en cada punto del país.
 
+[Enlace en Rpubs del proyecto](https://rpubs.com/DavidJara2201/805583)
 
