@@ -8,6 +8,14 @@ Undergraduate student of the statistics major in the "Universidad Nacional de Co
 
 Solid background using R, Python and Excel for statistical analysis including statistical inference, supervised and unsupervised learning, data visualization, anomaly detection, natural language processing, etc. power BI for business intelligence, as well as, SQL for relational databases.
 
+## Projects in English:
+
+### Examples for sampling methods for distributions.
+This project was completed as part of a freelance deal with a client. Regarding, sampling a number of different distributions using the inverse tranform method or the rejection method.
+
+[Link for the Rpubs project](https://rpubs.com/DavidJara2201/806098)
+
+
 ## Projects in Spanish:
 
 ### Predicción del precio de un Renault Logan con regresión bayesiana. 
@@ -24,3 +32,5 @@ Proyecto geoestadístico donde se estudia la distribución de la precipitación 
 Proyecto sobre estadística espacial, específicamente patrones puntuales, donde se busca conocer más acerca de la distribución espacial de los árboles abarco en Medellín y sus respectivas propiedades.
 
 [Enlace en Rpubs del proyecto](https://rpubs.com/DavidJara2201/805946)
+
+
