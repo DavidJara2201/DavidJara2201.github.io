@@ -20,3 +20,7 @@ Proyecto geoestadístico donde se estudia la distribución de la precipitación 
 
 [Enlace en Rpubs del proyecto](https://rpubs.com/DavidJara2201/805583)
 
+### Distribución de árboles Abarco en Medellín.
+Proyecto sobre estadística espacial, específicamente patrones puntuales, donde se busca conocer más acerca de la distribución espacial de los árboles abarco en Medellín y sus respectivas propiedades.
+
+[Enlace en Rpubs del proyecto](https://rpubs.com/DavidJara2201/805946)
