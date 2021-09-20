@@ -24,6 +24,11 @@ It was completed as part of a freelance deal with a client.
 
 [Link for the Rpubs project](https://rpubs.com/DavidJara2201/807861)
 
+### Shiny app for breast mass analysis and prediction.
+Utilization of a shiny app that includes data visualizations, summaries and prediction of the type of a mass in a breast using variables measured from its cells nuclei.
+
+[Link for the shinyApps.io app](https://davidjara2201.shinyapps.io/BreastMassApp/)
+
 
 ## Projects in Spanish:
 
