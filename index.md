@@ -32,7 +32,7 @@ Utilization of a shiny app that includes data visualizations, summaries and pred
 ### Classification of the sentiment of COVID-related tweets using NLP.
 Brief analysis of text and usage of NLP techniques in order to create a model able to classify covid-related tweets according to the sentiment they express, whether it is positive, negative or neutral.
 
-[Link for the Rpubs projects](https://rpubs.com/DavidJara2201/820137)
+[Link for the Rpubs project](https://rpubs.com/DavidJara2201/820137)
 
 ## Projects in Spanish:
 
