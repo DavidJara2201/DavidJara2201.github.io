@@ -29,6 +29,10 @@ Utilization of a shiny app that includes data visualizations, summaries and pred
 
 [Link for the shinyApps.io app](https://davidjara2201.shinyapps.io/BreastMassApp/)
 
+### Classification of the sentiment of COVID-related tweets usign NLP.
+Brief analysis of text and usage of NLP techniques in order to create a model able to classify covid-related tweets according to the sentiment they express, whether it is positive, negative or neutral.
+
+[Link for the Rpubs](https://rpubs.com/DavidJara2201/820137)
 
 ## Projects in Spanish:
 
