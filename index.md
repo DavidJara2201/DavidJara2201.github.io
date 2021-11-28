@@ -12,11 +12,6 @@ Solid background using R, Python and Excel for statistical analysis including st
 
 ### R:
 
-#### Examples for sampling methods for distributions.
-This project was completed as part of a freelance deal with a client. Regarding, sampling a number of different distributions using the inverse tranform method or the rejection method.
-
-[Link for the Rpubs project](https://rpubs.com/DavidJara2201/806098)
-
 #### Linear models to explain the effect of term limits in the percentage of female participation in politics.
 Implementation of linear models in order to explain and predict the percentage of women participating in a political environment depending on the use or not of term limits.
 
@@ -35,6 +30,18 @@ Utilization of a shiny app that includes data visualizations, summaries and pred
 Brief analysis of text and usage of NLP techniques in order to create a model able to classify covid-related tweets according to the sentiment they express, whether it is positive, negative or neutral.
 
 [Link for the Rpubs project](https://rpubs.com/DavidJara2201/820137)
+
+#### Unsupervised learning for customer segmentation (data pulled from SQL server)
+
+Implementation of k-means algorithm to segment customers that have purchased products in a certain business in the United States. As well as exploratory analysis on the generated clusters in order to better understand how these behave.
+
+[Link for the Rpubs project](https://rpubs.com/DavidJara2201/840540)
+
+#### Examples for sampling methods for distributions.
+This project was completed as part of a freelance deal with a client. Regarding, sampling a number of different distributions using the inverse tranform method or the rejection method.
+
+[Link for the Rpubs project](https://rpubs.com/DavidJara2201/806098)
+
 
 ### Python: 
 
