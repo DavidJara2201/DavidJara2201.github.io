@@ -33,7 +33,7 @@ Brief analysis of text and usage of NLP techniques in order to create a model ab
 
 #### Unsupervised learning for customer segmentation (data pulled from SQL server)
 
-Implementation of k-means algorithm to segment customers that have purchased products in a certain business in the United States. As well as exploratory analysis on the generated clusters in order to better understand how these behave.
+Implementation of k-means algorithm to segment customers that have purchased products in a certain business in the United States. As well as exploratory analysis on the generated clusters in order to better understand how these are formed and how the people in them behave.
 
 [Link for the Rpubs project](https://rpubs.com/DavidJara2201/840540)
 
