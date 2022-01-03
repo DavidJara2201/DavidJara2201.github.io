@@ -50,7 +50,7 @@ This project goes over a number of different variables that may or may not influ
 
 [Link for the medium post](https://medium.com/@jaramillocalledavid/classification-of-rainy-days-using-supervised-learning-24ba023e6f7)
 
-#### Prediction for the amount of money spent after a year as a client.
+#### Prediction for the amount of money spent after one year as a client.
 In this project, several machine learning models, including regression and classification ones, were built in order to give a reasonable predcition for how much money a new customer will spend in their first year (for the regression models) and whether said customer will be a "big buyer" or not (for the classification models) based on customer data pulled from SQLServer from a certain company.
 
 [Link for the medium post](https://medium.com/@jaramillocalledavid/prediction-of-money-spent-after-one-year-as-a-client-839e7d83bbb7)
