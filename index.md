@@ -45,7 +45,7 @@ This project was completed as part of a freelance deal with a client. Regarding,
 
 ### Python: 
 
-#### Face mask recognition tools using tensorflow
+#### Face mask recognition tool using tensorflow
 Construction of deep neural network that can accurately predict the way a person is wearing a face mask (correctly, incorrectly or not wearing one).
 
 [Link for the medium post](https://medium.com/@jaramillocalledavid/computer-vision-630f41567bbb)
