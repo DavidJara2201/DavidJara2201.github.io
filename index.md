@@ -45,6 +45,11 @@ This project was completed as part of a freelance deal with a client. Regarding,
 
 ### Python: 
 
+#### Face mask recognition tools using tensorflow
+Construction of deep neural network that can accurately predict the way a person is wearing a face mask (correctly, incorrectly or not wearing one).
+
+[Link for the medium post](https://medium.com/@jaramillocalledavid/computer-vision-630f41567bbb)
+
 #### Classification of rainy days using supervised learning.
 This project goes over a number of different variables that may or may not influence the chances of rain in Australia, in order to finally create a model that can, as accurate as possible, classify whether the next day will be rainy or not.
 
