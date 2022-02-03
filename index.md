@@ -37,7 +37,7 @@ Implementation of k-means algorithm to segment customers that have purchased pro
 
 [Link for the Rpubs project](https://rpubs.com/DavidJara2201/840540)
 
-### Linear mixed models to describe and predict a newborn's weight
+#### Linear mixed models to describe and predict a newborn's weight
 This project goes over the implementation and comparison of a number of differente linear mixed models in an attempt to properly describe, explain and predict the weight of a newborn in the city of Medellin, Colombia.
 
 [Link for the Rpubs project](https://rpubs.com/DavidJara2201/mixed-models-newborn-weight)
