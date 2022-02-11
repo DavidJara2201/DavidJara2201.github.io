@@ -12,6 +12,11 @@ Solid background using R, Python and Excel for statistical analysis including st
 
 ### R:
 
+#### Classification of the satisfaction level in customers.
+This project focuses on the understanding of the satisfaction of customers with a specific airline's service. To do this, exploratory analysis is initially performed. Afterwards, a variety of classification models are constructed, tuned and finally compared to select the one that best classifies dissatisfied customers.
+
+[Link for the Rpubs project](https://rpubs.com/DavidJara2201/864625)
+
 #### Linear models to explain the effect of term limits in the percentage of female participation in politics.
 Implementation of linear models in order to explain and predict the percentage of women participating in a political environment depending on the use or not of term limits.
 
