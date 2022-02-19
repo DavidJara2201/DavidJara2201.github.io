@@ -70,6 +70,14 @@ In this project, several machine learning models, including regression and class
 
 [Link for the medium post](https://medium.com/@jaramillocalledavid/prediction-of-money-spent-after-one-year-as-a-client-839e7d83bbb7)
 
+### SQL 
+
+#### Exploratory analysis on Covid-19 in Colombia and the world.
+
+In this project, a very brief yet valuable exploratory analysis is performed over some data regarding number of cases and deaths due to covid-19, as well as the number of vaccinations in the vast majority of countries around the world.
+
+[Link for the databricks notebook (SQL)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2422251778455944/2689052761880100/1432679710806114/latest.html)
+
 ## Projects in Spanish:
 
 ### R:
