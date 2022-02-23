@@ -70,6 +70,11 @@ In this project, several machine learning models, including regression and class
 
 [Link for the medium post](https://medium.com/@jaramillocalledavid/prediction-of-money-spent-after-one-year-as-a-client-839e7d83bbb7)
 
+#### Sentiment analysis on Twitter after the announcement of Street Figther 6
+In this project, a sentiment analysis is performed using the **TextBlob** package in order to understand how excited or disapoined the fanbase is regarding the release of the first teaser trailer for the latest entry of the street fighter series.
+
+[Link for the medium post](https://medium.com/@jaramillocalledavid/sentiment-analysis-of-tweets-after-the-announcement-of-street-fighters-6-2e5a7e6c9229)
+
 ### SQL 
 
 #### Exploratory analysis on Covid-19 in Colombia and the world.
