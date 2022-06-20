@@ -48,6 +48,9 @@ This project was completed as part of a freelance deal with a client. Regarding,
 
 ### Python: 
 
+#### [Classification of people with complaints using tripadvisor reviews and NLP](https://medium.com/@jaramillocalledavid/f3732eddd0c6)
+In this blog I focus on working with reviews from tripadvisor in order to first, understand the distribution of given ratings of said reviews and, second, build models that can accurately predict whether a person, based on the way they speak about a hotel, has complaints or not and, ultimately, if they will leave a bad or good review under that hotel.
+
 #### [Face mask recognition model using tensorflow.](https://medium.com/@jaramillocalledavid/computer-vision-630f41567bbb)
 Construction of deep neural network using the tensorflow framework, that can accurately predict the way a person is wearing a face mask  (correctly, incorrectly or not wearing one).
 
